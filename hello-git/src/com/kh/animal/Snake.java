@@ -1,6 +1,8 @@
 package com.kh.animal;
 
 public class Snake {
+	
+	private double lenth; //master에서 추가
 
 	private String name; // master에서 추가
 	
